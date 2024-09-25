@@ -1,5 +1,9 @@
+# 모델 캐시 파일
 /KOBCLLM/cache/
+# 데이터들
 /KOBCLLM/resource/
+
+# 창우 LLM
 /KOBCLLM/AllCon2-main/
 
 # Python 캐시 파일 무시
