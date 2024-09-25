@@ -1,1 +1,14 @@
 /KOBCLLM/cache/
+/KOBCLLM/resource/
+/KOBCLLM/AllCon2-main/
+
+# Python 캐시 파일 무시
+*.pyc
+__pycache__/
+
+# 환경 변수 파일 무시
+.env
+
+# 로컬 설정 파일 무시
+.vscode/
+.idea/
